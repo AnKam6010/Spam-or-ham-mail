@@ -22,6 +22,7 @@ Random Forest Classifier, an ensemble algorithm that builds multiple decision tr
 Model evaluation
 5) Testing the accuracy of the predictions on a test sample
 6) Classification of user message
+ 
 User enters text
 The model predicts whether the message is spam or not
 Results and accuracy:
