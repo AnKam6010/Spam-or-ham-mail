@@ -19,14 +19,15 @@ Converting text to numeric form with CountVectorizer
 Data is divided into training (80%) and test (20%) samples
 4) Model Training
 Random Forest Classifier, an ensemble algorithm that builds multiple decision trees and averages their predictions, is used
-Model evaluation
-5) Testing the accuracy of the predictions on a test sample
+5) Model evaluation
+Testing the accuracy of the predictions on a test sample
 6) Classification of user message
- 
+
 User enters text
 The model predicts whether the message is spam or not
 Results and accuracy:
 The model is trained on a dataset and shows high classification accuracy (97%). It can effectively filter spam messages, which makes it useful for automatic content moderation, email or messenger filtering.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Проект: Классификация сообщений на спам и не-спам
 
@@ -47,10 +48,10 @@ Random Forest Classifier – алгоритм классификации
 Преобразование текста в числовой вид с помощью CountVectorizer
 3) Разделение данных:
 Данные делятся на тренировочную (80%) и тестовую (20%) выборки
-4) Обучение модели
+4) Обучение модели:
 Используется Random Forest Classifier – ансамблевый алгоритм, который строит несколько деревьев решений и усредняет их предсказания
-Оценка модели
-5) Проверка точности предсказаний на тестовой выборке
+5) Оценка модели:
+Проверка точности предсказаний на тестовой выборке
 6) Классификация пользовательского сообщения
 
 Пользователь вводит текст
